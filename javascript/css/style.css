@@ -1,0 +1,21 @@
+.main{
+    width: 600px;
+    padding: 20px;
+    background-color: #dddd;
+    margin: 0 auto;
+}
+.form-fields h4{
+    color: green;
+}
+.form-fields input{
+    width: 100%;
+    padding: 10px 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.form-fields button{
+   border: none;
+    margin-top: 8px;
+    background-color: teal;
+    border-radius: 5px;
+}
